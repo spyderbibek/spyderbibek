@@ -6,9 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [AnimeZone](http://animezone.info/).
 - 🌱 I’m currently learning JavaScript
-- 🤔 I’m looking for help with ...
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
 
 **Languages and Tools:**  
 
