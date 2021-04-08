@@ -4,9 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [AnimeZone](http://animezone.info/).
-- 🌱 I’m currently learning JavaScript
-- 😄 Pronouns: He/His
+- 🔭 I’m currently working on [AnimeZone](http://animezone.info/) && MovieZone.
+- 🌱 I’m currently learning JavaScript & nodejs
 
 **Languages and Tools:**  
 
